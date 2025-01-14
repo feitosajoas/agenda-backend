@@ -86,7 +86,7 @@ public class ContactController : ControllerBase
             var result = await _mediator.Send(query, cancellationToken);
             if (result == null)
                 return NotFound(new ApiResponse(404, Messages.CONTACT_NOT_FOUND));
-            return Ok(new ApiResponse(200, Messages.CONTACT_RETRIVED_SUCESSFULLY));
+            return Ok(result);
         }
         return Unauthorized(new ApiResponse(401, Messages.INVALID_TOKEN));
     }

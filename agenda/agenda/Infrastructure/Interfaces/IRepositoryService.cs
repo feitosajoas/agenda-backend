@@ -11,4 +11,8 @@ public interface IRepositoryService<T> where T : class
     Task UpdateAsync(T entity, CancellationToken cancellationToken);
     Task DeleteAsync(T entity, CancellationToken cancellationToken);
     Task SaveChangesAsync(CancellationToken cancellationToken);
+    virtual Task<T?> GetByEmailAsync(string email, CancellationToken cancellationToken)
+    {
+        throw new NotImplementedException("Este método não foi implementado.");
+    }
 }

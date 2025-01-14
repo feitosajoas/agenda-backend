@@ -27,6 +27,12 @@ public class UserCommandHandle : IRequestHandler<UserCommand, User>
     {
         User user;
 
+        var existingUser = await _repository.GetByEmailAsync(request.Email, cancellationToken);
+        if (existingUser != null)
+        {
+            throw new Exception(Messages.EMAIL_ALREADY_USE);
+        }
+
         var validationResult = _validator.Validate(request);
         if (!validationResult.IsValid)
         {

@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Angaro\\source\\repos\\agenda\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\application\\handlers\\usercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\application\\handlers\\usercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\common\\utils\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\common\\utils\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\infrastructure\\services\\repositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\infrastructure\\services\\repositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\infrastructure\\interfaces\\irepositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\infrastructure\\interfaces\\irepositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,16 +79,8 @@
       "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\application\\queries\\contactsqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\application\\handlers\\usercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\application\\handlers\\usercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\application\\handlers\\loginqueryhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\application\\handlers\\loginqueryhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\common\\utils\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\common\\utils\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\application\\handlers\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,16 +95,8 @@
       "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\application\\handlers\\contactcommandhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\models\\modelresponse\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\application\\commands\\contactcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\infrastructure\\services\\repositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\infrastructure\\services\\repositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -125,10 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\common\\interfaces\\ipasswordhasherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\common\\interfaces\\ipasswordhasherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\infrastructure\\interfaces\\irepositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|solutionrelative:agenda\\infrastructure\\interfaces\\irepositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37683460-F7F0-4ADE-A690-2C03C3DCAE9E}|agenda\\agenda.csproj|c:\\users\\angaro\\source\\repos\\agenda\\agenda\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -170,89 +170,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserValidatorTests.cs",
-              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\AgendaUnitTest\\Validators\\UserValidatorTests.cs",
-              "RelativeDocumentMoniker": "AgendaUnitTest\\Validators\\UserValidatorTests.cs",
-              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\AgendaUnitTest\\Validators\\UserValidatorTests.cs",
-              "RelativeToolTip": "AgendaUnitTest\\Validators\\UserValidatorTests.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAgwGQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T23:28:11.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContactTests.cs",
-              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\AgendaUnitTest\\Models\\ContactTests.cs",
-              "RelativeDocumentMoniker": "AgendaUnitTest\\Models\\ContactTests.cs",
-              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\AgendaUnitTest\\Models\\ContactTests.cs",
-              "RelativeToolTip": "AgendaUnitTest\\Models\\ContactTests.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwGIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T23:13:59.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserTests.cs",
-              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\AgendaUnitTest\\Models\\UserTests.cs",
-              "RelativeDocumentMoniker": "AgendaUnitTest\\Models\\UserTests.cs",
-              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\AgendaUnitTest\\Models\\UserTests.cs",
-              "RelativeToolTip": "AgendaUnitTest\\Models\\UserTests.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T23:08:53.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ContactsQueries.cs",
-              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Queries\\ContactsQueries.cs",
-              "RelativeDocumentMoniker": "agenda\\Application\\Queries\\ContactsQueries.cs",
-              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Queries\\ContactsQueries.cs",
-              "RelativeToolTip": "agenda\\Application\\Queries\\ContactsQueries.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:41:12.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GetUserByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Queries\\GetUserByIdQuery.cs",
-              "RelativeDocumentMoniker": "agenda\\Application\\Queries\\GetUserByIdQuery.cs",
-              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Queries\\GetUserByIdQuery.cs",
-              "RelativeToolTip": "agenda\\Application\\Queries\\GetUserByIdQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:30:47.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Models\\User.cs",
-              "RelativeDocumentMoniker": "agenda\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Models\\User.cs",
-              "RelativeToolTip": "agenda\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T12:26:05.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "PasswordHashingOptions.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Models\\PasswordHashingOptions.cs",
               "RelativeDocumentMoniker": "agenda\\Models\\PasswordHashingOptions.cs",
@@ -260,12 +182,11 @@
               "RelativeToolTip": "agenda\\Models\\PasswordHashingOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T17:08:04.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T17:08:04.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "UserValidator.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Validators\\UserValidator.cs",
               "RelativeDocumentMoniker": "agenda\\Application\\Validators\\UserValidator.cs",
@@ -273,51 +194,186 @@
               "RelativeToolTip": "agenda\\Application\\Validators\\UserValidator.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T16:45:21.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T16:45:21.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Program.cs",
-              "RelativeDocumentMoniker": "agenda\\Program.cs",
-              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Program.cs",
-              "RelativeToolTip": "agenda\\Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAADwv3IAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:04:58.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AgendaUnitTest",
+              "DocumentIndex": 8,
+              "Title": "AgendaUnitTest.csproj",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\AgendaUnitTest\\AgendaUnitTest.csproj",
               "RelativeDocumentMoniker": "AgendaUnitTest\\AgendaUnitTest.csproj",
               "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\AgendaUnitTest\\AgendaUnitTest.csproj",
               "RelativeToolTip": "AgendaUnitTest\\AgendaUnitTest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-11T23:24:39.303Z",
+              "WhenOpened": "2025-01-11T23:24:39.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "agenda\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Controllers\\UserController.cs",
+              "RelativeToolTip": "agenda\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:23:46.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "agenda\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "agenda\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:28:24.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Handlers\\UserCommandHandler.cs",
               "RelativeDocumentMoniker": "agenda\\Application\\Handlers\\UserCommandHandler.cs",
               "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Handlers\\UserCommandHandler.cs",
               "RelativeToolTip": "agenda\\Application\\Handlers\\UserCommandHandler.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwDQAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T16:29:36.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Infrastructure\\Interfaces\\IRepositoryService.cs",
+              "RelativeDocumentMoniker": "agenda\\Infrastructure\\Interfaces\\IRepositoryService.cs",
+              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Infrastructure\\Interfaces\\IRepositoryService.cs",
+              "RelativeToolTip": "agenda\\Infrastructure\\Interfaces\\IRepositoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:45:18.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Infrastructure\\Services\\RepositoryService.cs",
+              "RelativeDocumentMoniker": "agenda\\Infrastructure\\Services\\RepositoryService.cs",
+              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Infrastructure\\Services\\RepositoryService.cs",
+              "RelativeToolTip": "agenda\\Infrastructure\\Services\\RepositoryService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA7wEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:46:17.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Common\\Utils\\Messages.cs",
+              "RelativeDocumentMoniker": "agenda\\Common\\Utils\\Messages.cs",
+              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Common\\Utils\\Messages.cs",
+              "RelativeToolTip": "agenda\\Common\\Utils\\Messages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T17:10:33.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "UserValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\AgendaUnitTest\\Validators\\UserValidatorTests.cs",
+              "RelativeDocumentMoniker": "AgendaUnitTest\\Validators\\UserValidatorTests.cs",
+              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\AgendaUnitTest\\Validators\\UserValidatorTests.cs",
+              "RelativeToolTip": "AgendaUnitTest\\Validators\\UserValidatorTests.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwGQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T23:28:11.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Program.cs",
+              "RelativeDocumentMoniker": "agenda\\Program.cs",
+              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Program.cs",
+              "RelativeToolTip": "agenda\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAHIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:04:58.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Models\\User.cs",
+              "RelativeDocumentMoniker": "agenda\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Models\\User.cs",
+              "RelativeToolTip": "agenda\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:26:05.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Queries\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "agenda\\Application\\Queries\\GetUserByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Queries\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "agenda\\Application\\Queries\\GetUserByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:30:47.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContactsQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Queries\\ContactsQueries.cs",
+              "RelativeDocumentMoniker": "agenda\\Application\\Queries\\ContactsQueries.cs",
+              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Queries\\ContactsQueries.cs",
+              "RelativeToolTip": "agenda\\Application\\Queries\\ContactsQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:41:12.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserTests.cs",
+              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\AgendaUnitTest\\Models\\UserTests.cs",
+              "RelativeDocumentMoniker": "AgendaUnitTest\\Models\\UserTests.cs",
+              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\AgendaUnitTest\\Models\\UserTests.cs",
+              "RelativeToolTip": "AgendaUnitTest\\Models\\UserTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T23:08:53.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactTests.cs",
+              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\AgendaUnitTest\\Models\\ContactTests.cs",
+              "RelativeDocumentMoniker": "AgendaUnitTest\\Models\\ContactTests.cs",
+              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\AgendaUnitTest\\Models\\ContactTests.cs",
+              "RelativeToolTip": "AgendaUnitTest\\Models\\ContactTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T23:13:59.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "agenda\\Models\\Contact.cs",
@@ -325,12 +381,11 @@
               "RelativeToolTip": "agenda\\Models\\Contact.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:55:16.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T17:55:16.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ContactValidator.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Validators\\ContactValidator.cs",
               "RelativeDocumentMoniker": "agenda\\Application\\Validators\\ContactValidator.cs",
@@ -338,12 +393,11 @@
               "RelativeToolTip": "agenda\\Application\\Validators\\ContactValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:42:40.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T17:42:40.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "LoginQueryHandle.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Handlers\\LoginQueryHandle.cs",
               "RelativeDocumentMoniker": "agenda\\Application\\Handlers\\LoginQueryHandle.cs",
@@ -351,12 +405,11 @@
               "RelativeToolTip": "agenda\\Application\\Handlers\\LoginQueryHandle.cs",
               "ViewState": "AgIAABIAAAAAAAAAAADgvygAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T17:14:37.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T17:14:37.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "GetUserByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Handlers\\GetUserByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "agenda\\Application\\Handlers\\GetUserByIdQueryHandler.cs",
@@ -364,12 +417,11 @@
               "RelativeToolTip": "agenda\\Application\\Handlers\\GetUserByIdQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:29:36.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T18:29:36.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "ContactQueryHandle.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Handlers\\ContactQueryHandle.cs",
               "RelativeDocumentMoniker": "agenda\\Application\\Handlers\\ContactQueryHandle.cs",
@@ -377,25 +429,11 @@
               "RelativeToolTip": "agenda\\Application\\Handlers\\ContactQueryHandle.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAWwBUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T14:03:23.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T14:03:23.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Messages.cs",
-              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Common\\Utils\\Messages.cs",
-              "RelativeDocumentMoniker": "agenda\\Common\\Utils\\Messages.cs",
-              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Common\\Utils\\Messages.cs",
-              "RelativeToolTip": "agenda\\Common\\Utils\\Messages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T17:10:33.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "ContactCommandHandle.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Handlers\\ContactCommandHandle.cs",
               "RelativeDocumentMoniker": "agenda\\Application\\Handlers\\ContactCommandHandle.cs",
@@ -403,12 +441,11 @@
               "RelativeToolTip": "agenda\\Application\\Handlers\\ContactCommandHandle.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAowEcAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:43:47.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T17:43:47.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "LoginQuery.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Queries\\LoginQuery.cs",
               "RelativeDocumentMoniker": "agenda\\Application\\Queries\\LoginQuery.cs",
@@ -416,38 +453,11 @@
               "RelativeToolTip": "agenda\\Application\\Queries\\LoginQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T17:13:41.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T17:13:41.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "agenda\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "agenda\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFcAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T19:28:24.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "agenda\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Controllers\\UserController.cs",
-              "RelativeToolTip": "agenda\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:23:46.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\appsettings.json",
               "RelativeDocumentMoniker": "agenda\\appsettings.json",
@@ -455,12 +465,11 @@
               "RelativeToolTip": "agenda\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-10T03:24:24.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T03:24:24.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "agenda\\Controllers\\AuthController.cs",
@@ -468,12 +477,11 @@
               "RelativeToolTip": "agenda\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAACEAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T03:53:32.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T03:53:32.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Common\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "agenda\\Common\\Services\\JwtService.cs",
@@ -481,12 +489,11 @@
               "RelativeToolTip": "agenda\\Common\\Services\\JwtService.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAiwEgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T03:37:55.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T03:37:55.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "ContactCommand.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Application\\Commands\\ContactCommand.cs",
               "RelativeDocumentMoniker": "agenda\\Application\\Commands\\ContactCommand.cs",
@@ -494,25 +501,11 @@
               "RelativeToolTip": "agenda\\Application\\Commands\\ContactCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:41:53.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T17:41:53.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "RepositoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Infrastructure\\Services\\RepositoryService.cs",
-              "RelativeDocumentMoniker": "agenda\\Infrastructure\\Services\\RepositoryService.cs",
-              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Infrastructure\\Services\\RepositoryService.cs",
-              "RelativeToolTip": "agenda\\Infrastructure\\Services\\RepositoryService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T12:46:17.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Models\\ModelResponse\\ApiResponse.cs",
               "RelativeDocumentMoniker": "agenda\\Models\\ModelResponse\\ApiResponse.cs",
@@ -520,12 +513,11 @@
               "RelativeToolTip": "agenda\\Models\\ModelResponse\\ApiResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T17:06:52.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T17:06:52.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "agenda\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
@@ -533,12 +525,11 @@
               "RelativeToolTip": "agenda\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T18:53:13.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T18:53:13.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "IJwtService.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Common\\Interfaces\\IJwtService.cs",
               "RelativeDocumentMoniker": "agenda\\Common\\Interfaces\\IJwtService.cs",
@@ -546,12 +537,11 @@
               "RelativeToolTip": "agenda\\Common\\Interfaces\\IJwtService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T12:01:41.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T12:01:41.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "ExceptioMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Middleware\\ExceptioMiddleware.cs",
               "RelativeDocumentMoniker": "agenda\\Middleware\\ExceptioMiddleware.cs",
@@ -559,12 +549,11 @@
               "RelativeToolTip": "agenda\\Middleware\\ExceptioMiddleware.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T18:09:23.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T18:09:23.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "IPasswordHasherService.cs",
               "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Common\\Interfaces\\IPasswordHasherService.cs",
               "RelativeDocumentMoniker": "agenda\\Common\\Interfaces\\IPasswordHasherService.cs",
@@ -572,21 +561,7 @@
               "RelativeToolTip": "agenda\\Common\\Interfaces\\IPasswordHasherService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T16:59:25.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IRepositoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Infrastructure\\Interfaces\\IRepositoryService.cs",
-              "RelativeDocumentMoniker": "agenda\\Infrastructure\\Interfaces\\IRepositoryService.cs",
-              "ToolTip": "C:\\Users\\Angaro\\source\\repos\\agenda\\agenda\\Infrastructure\\Interfaces\\IRepositoryService.cs",
-              "RelativeToolTip": "agenda\\Infrastructure\\Interfaces\\IRepositoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T12:45:18.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T16:59:25.606Z"
             },
             {
               "$type": "Document",
@@ -598,8 +573,7 @@
               "RelativeToolTip": "agenda\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:53:29.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T18:53:29.856Z"
             },
             {
               "$type": "Document",
@@ -611,8 +585,7 @@
               "RelativeToolTip": "agenda\\Application\\Commands\\UserCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T16:21:55.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T16:21:55.781Z"
             },
             {
               "$type": "Document",
@@ -624,8 +597,7 @@
               "RelativeToolTip": "agenda\\Migrations\\20250110143908_AddContactEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T14:40:14.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T14:40:14.519Z"
             },
             {
               "$type": "Document",
@@ -637,8 +609,7 @@
               "RelativeToolTip": "agenda\\Common\\Services\\PasswordHasherService.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T16:59:57.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T16:59:57.499Z"
             },
             {
               "$type": "Document",
@@ -650,8 +621,7 @@
               "RelativeToolTip": "agenda\\agenda.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-10T03:17:32.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T03:17:32.923Z"
             },
             {
               "$type": "Document",
@@ -663,8 +633,7 @@
               "RelativeToolTip": "agenda\\Models\\Generic\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T12:22:59.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T12:22:59.586Z"
             },
             {
               "$type": "Document",
@@ -676,8 +645,7 @@
               "RelativeToolTip": "agenda\\Models\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T13:44:03.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T13:44:03.819Z"
             },
             {
               "$type": "Document",
@@ -689,8 +657,7 @@
               "RelativeToolTip": "agenda\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAUAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-10T12:51:49.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T12:51:49.233Z"
             }
           ]
         }

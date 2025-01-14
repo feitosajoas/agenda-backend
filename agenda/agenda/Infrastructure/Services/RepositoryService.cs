@@ -52,5 +52,17 @@ public class RepositoryService<T> : IRepositoryService<T> where T : class
     {
         await _context.SaveChangesAsync(cancellationToken);
     }
+
+    public async Task<T?> GetByEmailAsync(string email, CancellationToken cancellationToken)
+    {
+        var property = typeof(T).GetProperty("Email");
+        if (property == null)
+            throw new InvalidOperationException("O tipo T não possui a propriedade 'Email'.");
+
+        return await _dbSet.FirstOrDefaultAsync(
+            entity => EF.Property<string>(entity, "Email") == email,
+            cancellationToken
+        );
+    }
 }
 

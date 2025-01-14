@@ -15,4 +15,5 @@ public static class Messages
     public const string UNSUPPORTED_COMMAND_TYPE = "Unsupported command type.";
     public const string USER_ID_REQUIRED_DELETE = "User ID is required for delete.";
     public const string USER_ID_REQUIRED_EDIT = "User ID is required for update.";
+    public const string EMAIL_ALREADY_USE = "Email is already in use.";
 }

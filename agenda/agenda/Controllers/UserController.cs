@@ -43,7 +43,11 @@ public class UserController : ControllerBase
         }
         catch (Exception ex)
         {
-            return BadRequest(new { Message = ex.Message });
+            if (ex.Message == Messages.EMAIL_ALREADY_USE)
+            {
+                return Conflict(new ApiResponse(409, ex.Message));
+            }
+            return BadRequest(new ApiResponse(400, ex.Message));
         }
     }
 
